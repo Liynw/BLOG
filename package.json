@@ -1,0 +1,1 @@
+{"name":"liynw-blog","version":"1.0.11","description":"Blog","main":"index.html","scripts":{"test":"echo \"Error: no test specified\" && exit 1"},"repository":{"type":"git","url":"git+https://github.com/Liynw/BLOG.git"},"keywords":["blog"],"author":"Liynw","license":"ISC","bugs":{"url":"https://github.com/Liynw/BLOG/issues"},"homepage":"https://github.com/Liynw/BLOG#readme"}

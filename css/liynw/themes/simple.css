@@ -1,0 +1,31 @@
+#web_bg {
+    display:none;
+}
+
+#page-header.full_page {
+    height: 60px;
+}
+
+header#page-header.full_page #site-info, #page-header #scroll-down {
+    display: none;
+}
+
+#page-header.before {
+    display: none;
+}
+
+svg.icon {
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+}
+
+svg.icon.festival-decoration {
+    display: none !important;
+}
+
+#page-header {
+    background: transparent !important;
+}
